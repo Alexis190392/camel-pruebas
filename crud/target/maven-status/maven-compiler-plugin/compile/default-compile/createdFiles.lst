@@ -1,0 +1,4 @@
+com\camel\crud\processor\EmpleadoProcessor.class
+com\camel\crud\model\Empleado.class
+com\camel\crud\processor\EmpAddProcessor.class
+com\camel\crud\Application.class
